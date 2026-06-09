@@ -65,7 +65,7 @@ The notebook is structured as 12 steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/world-happiness-stats-project.git
+   git clone https://github.com/omarfaruk07/world-happiness-stats-project.git
    cd world-happiness-stats-project
    ```
 
